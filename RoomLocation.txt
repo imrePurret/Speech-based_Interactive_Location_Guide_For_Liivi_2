@@ -1,0 +1,87 @@
+339 third 339 1 right third right
+341 third 341 1 right first right
+427 fourth 427 1 right second right
+426 fourth 426 1 right third right
+328 third 328 1 right fifth left
+217 second 217 1 right third left
+617 sixth 617 1 left right left last right
+603 sixth 603 1 left second left
+502 fifth 502 1 left first left
+338 third 338 1 right forth right
+215 second 215 1 right first left
+217 second 217 1 right third left
+618 sixth 618 1 left right end last front
+417 forth 417 1 right seventh left
+505 fifth 505 1 left forth left
+504 fifth 504 1 left third left
+503 fifth 503 1 left second left
+506 fifth 506 1 left fifth left
+507 fifth 507 1 left sixth left
+508 fifth 508 1 left seventh left
+509 fifth 509 1 left eight left
+513 fifth 513 1 left right first left
+514 fifth 514 1 left right second left
+515 fifth 515 1 left right third left
+516 fifth 516 1 left right forth left
+517 fifth 517 1 left right left last right
+519 fifth 519 1 left right right last left
+340 third 340 1 right second right
+339 third 339 1 right third right
+337 third 337 1 right fifth right
+336 third 336 1 right sixth right
+335 third 335 1 right seventh right
+334 third 334 1 right eighth right
+325 third 325 1 right second left
+326 third 326 1 right third left
+327 third 327 1 right forth left
+329 third 329 1 right sixth left
+330 third 330 1 right seventh left
+331 third 331 1 right eighth left
+331 third 331 1 right eighth left
+332 third 332 1 right ninth left
+333 third 333 1 right tenth left
+302 third 302 1 left first left
+303 third 303 1 left second left
+304 third 304 1 left third left
+305 third 305 1 left forth left
+306 third 306 1 left fifth left
+307 third 307 1 left sixth left
+308 third 308 1 left end front
+311 third 311 1 left right left last left
+314 third 314 1 left right left last right
+619 sixth 619 1 left right right last left
+616 sixth 616 1 left right forth left
+615 sixth 615 1 left right third left
+614 sixth 614 1 left right second left
+613 sixth 613 1 left right first left
+604 sixth 604 1 left third left
+605 sixth 605 1 left forth left
+606 sixth 606 1 left fifth left
+607 sixth 607 1 left sixth left
+608 sixth 608 1 left seventh left
+609 sixth 609 1 left eight left
+216 second 216 1 right second left
+218 second 218 1 right forth left
+218 second 218 1 right forth left
+219 second 219 1 right fifth left
+220 second 220 1 right sixth left
+221 second 221 1 right seventh left
+222 second 222 1 right fifth right
+223 second 223 1 right forth right
+412 forth 412 1 right second left
+413 forth 413 1 right third left
+414 forth 414 1 right forth left
+415 forth 415 1 right fifth left
+416 forth 416 1 right sixth left
+418 forth 418 1 right eighth left
+419 forth 419 1 right ninth left
+420 forth 420 1 right tenth left
+421 forth 421 1 right eighth right
+422 forth 422 1 right seventh right
+425 forth 425 1 right forth right
+120 first 120 0 right second left
+015 basement 015 -1 right second left
+017 basement 017 -1 right forth left
+018 basement 018 -1 right fifth left
+019 basement 019 -1 right sixth left
+020 basement 020 -1 right seventh left
